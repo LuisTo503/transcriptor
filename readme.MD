@@ -60,5 +60,34 @@ Adapta el script para otros idiomas cambiando el parámetro de gtts.
 - ***correo:rgbmultimedios@gmail.com***
 - ***Fecha de creación: 2025/05/17***
 
+📚 Referencias
+OpenAI Whisper (Speech-to-Text)
+
+OpenAI Whisper API Docs
+Repositorio Whisper en GitHub
+OpenAI GPT (ChatGPT, GPT-4o)
+
+OpenAI Chat Completions API Docs
+OpenAI Python Library Migration Guide
+Google Text-to-Speech (gTTS)
+
+gTTS Documentation
+gTTS en PyPI
+Python Standard Library
+
+Documentación oficial de Python
+Twilio API for WhatsApp (para integración opcional)
+
+Twilio WhatsApp API Docs
+Twilio Python Library
+Speaker Diarization (opcional)
+
+inaSpeechSegmenter
+pyAudioAnalysis
+Buenas prácticas para archivos README
+
+Make a README
+GitHub Docs: About READMEs
+
 📄 Licencia
 Este proyecto es de uso educativo y demostrativo.
