@@ -1,15 +1,15 @@
 # Transcriptor y Resumidor de Reuniones con IA
 
-## 📚 Analogía: El Bibliotecario Digital
+## 📚 Analogía: Transcriptor y Resumidor de Reuniones con IA
 
-Imagina que tienes una grabación de una reunión. Nuestro sistema es como un **bibliotecario digital** muy eficiente:
+Crea un resumen de grabación de una reunión. Por cierto ***muy eficiente***
 
 1. **Escucha la reunión** (transcribe el audio a texto).
 2. **Lee y entiende lo que se dijo** (resume el texto con IA).
 3. **Te entrega un resumen claro** (genera un audio breve y un archivo de texto).
 4. **Organiza la información** (puedes compartir los resultados fácilmente).
 
-Así, no necesitas escuchar toda la reunión: el bibliotecario digital te da solo lo más importante, listo para compartir o consultar.
+Así, no necesitas escuchar toda la reunión: Transcriptor y Resumidor de Reuniones con IA te da solo lo más importante, listo para compartir o consultar.
 
 ---
 
@@ -18,8 +18,8 @@ Así, no necesitas escuchar toda la reunión: el bibliotecario digital te da sol
 - **Transcripción:** Usa la API de OpenAI Whisper para convertir el audio de la reunión en texto.
 - **Resumen:** Usa ChatGPT (modelo GPT-4o) para resumir la transcripción.
 - **Audio resumen:** Convierte el resumen de texto a voz usando Google Text-to-Speech (`gtts`).
-- **Exportación:** Guarda el resumen en texto y audio, y simula la creación de un archivo para diagramas.
-- **Compartir:** Muestra las rutas de los archivos generados (puedes integrar WhatsApp o email fácilmente).
+- **Exportación:** Guarda el resumen en texto y audio.
+- En construcción...**Compartir:** Muestra las rutas de los archivos generados (puedes integrar WhatsApp o email fácilmente). 
 
 ---
 
