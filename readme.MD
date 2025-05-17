@@ -60,34 +60,34 @@ Adapta el script para otros idiomas cambiando el parámetro de gtts.
 - ***correo:rgbmultimedios@gmail.com***
 - ***Fecha de creación: 2025/05/17***
 
-📚 Referencias
-OpenAI Whisper (Speech-to-Text)
+## 📚 Referencias
 
-OpenAI Whisper API Docs
-Repositorio Whisper en GitHub
-OpenAI GPT (ChatGPT, GPT-4o)
+- **OpenAI Whisper (Speech-to-Text)**
+  - [OpenAI Whisper API Docs](https://platform.openai.com/docs/guides/speech-to-text)
+  - [Repositorio Whisper en GitHub](https://github.com/openai/whisper)
 
-OpenAI Chat Completions API Docs
-OpenAI Python Library Migration Guide
-Google Text-to-Speech (gTTS)
+- **OpenAI GPT (ChatGPT, GPT-4o)**
+  - [OpenAI Chat Completions API Docs](https://platform.openai.com/docs/guides/gpt)
+  - [OpenAI Python Library Migration Guide](https://github.com/openai/openai-python/discussions/742)
 
-gTTS Documentation
-gTTS en PyPI
-Python Standard Library
+- **Google Text-to-Speech (gTTS)**
+  - [gTTS Documentation](https://gtts.readthedocs.io/en/latest/)
+  - [gTTS en PyPI](https://pypi.org/project/gTTS/)
 
-Documentación oficial de Python
-Twilio API for WhatsApp (para integración opcional)
+- **Python Standard Library**
+  - [Documentación oficial de Python](https://docs.python.org/3/)
 
-Twilio WhatsApp API Docs
-Twilio Python Library
-Speaker Diarization (opcional)
+- **Twilio API for WhatsApp**
+  - [Twilio WhatsApp API Docs](https://www.twilio.com/docs/whatsapp)
+  - [Twilio Python Library](https://www.twilio.com/docs/libraries/python)
 
-inaSpeechSegmenter
-pyAudioAnalysis
-Buenas prácticas para archivos README
+- **Speaker Diarization**
+  - [inaSpeechSegmenter](https://github.com/ina-foss/inaSpeechSegmenter)
+  - [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis)
 
-Make a README
-GitHub Docs: About READMEs
+- **Buenas prácticas para archivos README**
+  - [Make a README](https://www.makeareadme.com/)
+  - [GitHub Docs: About READMEs](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes)
 
 📄 Licencia
 Este proyecto es de uso educativo y demostrativo.
